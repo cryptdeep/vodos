@@ -33,6 +33,13 @@
 <h2>Etiketler</h2>
 sms atack, sms saldırısı, sms bombası, sms bomber, sms toolu, sms çökeltme, telefon numarası, +90, 5, türkçe, the vodka, sms güvenliği, siber atak, siber attack, siber tool, hacking tool, exploitation tool, abuse tool, istismar aracı
 
+<h2>Yakında Gelecek Özellikler</h2>
+<ul>
+  <li><b>Discord ve Telegram Entegrasyonu:</b> Bu özellik sayesinde SMS Bomber aracını Discord veya Telegram botu olarak kullanabileceksiniz.</li>
+  <li><b>Procy ve VPN Desteği:</b> Anonimlik sağlamak adına Proxy ve VPN desteği getirilecektir.</li>
+  <li><b>150'den Fazla Site:</b> Bu güncelleme ile birlikte 150'den fazla adresten kesintisiz SMS atağı yapmayı düşünüyoruz.</li>
+</ul>
+
 <h2>Ayrıca Teşekkür Ederiz</h2>
 <table>
   <tr align="center">
